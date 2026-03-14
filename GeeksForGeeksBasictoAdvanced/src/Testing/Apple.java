@@ -7,5 +7,6 @@ public class Apple {
         String s = "Apple";
 
         System.out.println(s);
+        System.out.println("welcome");
     }
 }
